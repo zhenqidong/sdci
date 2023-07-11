@@ -1,5 +1,5 @@
 ---
-swagger: "3.0"
+swagger: "3.1.0"
 info:
   description: "This is a set of samples only for SDCI POC
     \ "
