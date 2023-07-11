@@ -14,13 +14,13 @@ info:
 host: ""
 basePath: "/v1"
 tags:
-- name: "pet"
-  description: "Everything about your Pets"
+- name: "service"
+  description: "SD-WAN via TAO"
   externalDocs:
     description: "Find out more"
     url: "http://swagger.io"
-- name: "store"
-  description: "Access to Petstore orders"
+- name: "metric"
+  description: "Access to service metric"
 - name: "user"
   description: "Operations about user"
   externalDocs:
