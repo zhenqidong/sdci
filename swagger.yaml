@@ -4,7 +4,7 @@ info:
   description: "This is a set of samples only for SDCI POC
     \ "
   version: "1.0.0"
-  title: "API Spec for SDCI POC compliant with TMF"
+  title: "API Spec compliant with TMF standard for SDCI POC "
   termsOfService: ""
   contact:
     email: "zd794w@att.com"
